@@ -1,0 +1,12 @@
+{
+  "name": "gruntjs",
+  "version": "1.0.0",
+  "description": "A demo for working of gruntjs",
+  "main": "index.html",
+  "author": "pymd",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
